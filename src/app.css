@@ -1,0 +1,26 @@
+@import "./../public/css/core.css";
+@import "./../public/css/demo.css";
+@import "./../public/css/page-account-settings.css";
+@import "./../public/css/page-auth.css";
+@import "./../public/css/page-icons.css";
+@import "./../public/css/page-misc.css";
+@import "./../public/css/perfect-scrollbar.css";
+@import "./../public/css/theme-default.css";
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.error{
+ border : 1px solid red !important;
+}
+.danger{
+    color : red;
+}
+.error-block {
+    color: red;
+    border: 1px solid;
+    margin-bottom: 23px;
+}
+.p-block{
+    margin: 10px;
+}
+.w-98{
+    width:98%
+}
